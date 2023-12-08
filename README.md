@@ -10,7 +10,7 @@ This simple command-line To-Do Manager written in C allows users to create, mana
 - **Task Management**: Basic functionalities to view, edit, and delete tasks.
 
 ## Getting Started
-1. **Compile**: Compile the `todo.c` file using a C compiler.
+1. **Compile**: Compile the `main.c` file using a C compiler.
     ```bash
     gcc main.c -o main
     ```
